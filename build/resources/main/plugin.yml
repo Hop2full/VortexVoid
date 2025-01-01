@@ -1,0 +1,10 @@
+name: vortexvoid
+version: '1.0-SNAPSHOT'
+main: main.vortexvoid.VortexVoid
+author: Jaswin
+api-version: '1.21'
+commands:
+  vv:
+    description: Main command
+    usage: /vv <subcommand>
+    permission: vortexvoid.admin
